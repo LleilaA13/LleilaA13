@@ -15,6 +15,7 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
   -  Multicore Programming (C) 🖥️
   -  Deep learning 🤖
   -  Algorithms and Computational theory 📚
+  -  Fundamentals of Cybersecurity 🔐
 
     
 ## 🔧 Technologies & Tools
