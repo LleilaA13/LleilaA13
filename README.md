@@ -31,7 +31,7 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 
 ---
 ## 🎀 
-![Kuromi](https://media.tenor.com/2B_n-G5lSMYAAAAC/kuromi-dance.gif)
+![Kuromi](https://i.pinimg.com/originals/fb/42/7b/fb427b601dc9b41f2092b1be16b5d91d.gif)
 
 
 ---
