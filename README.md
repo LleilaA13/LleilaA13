@@ -31,7 +31,7 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 
 ---
 ## 🎀 
-![Kuromi](https://i.pinimg.com/originals/fb/42/7b/fb427b601dc9b41f2092b1be16b5d91d.gif)
+<div class="tenor-gif-embed" data-postid="861306002551391311" data-share-method="host" data-aspect-ratio="0.791209" data-width="100%"><a href="https://tenor.com/view/kumori-corner-peak-peaking-sanrio-gif-861306002551391311">Kumori Corner Peak Sticker</a>from <a href="https://tenor.com/search/kumori-stickers">Kumori Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ---
