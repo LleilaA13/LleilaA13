@@ -7,9 +7,9 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 ## 🌟  About me
 
 💡 **Interests**:
-  - Multicore Processing and Parallel Computing 
+  - Multicore Processing and Parallel Computing 🖥️
   - Mathematics and Computational Thinking 🧮
-  - Machine Learning,Data Analysis and Computer Vision 🤖
+  - Machine Learning, Data Analysis and Computer Vision 🤖
     
 🌱 **Currently Learning**:
   -  Multicore Programming (C) 🖥️
