@@ -19,8 +19,8 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 
     
 ## 🔧 Technologies & Tools
-- **Programming Languages**: Python, C, Java, R
-- **Frameworks and Libraries**: TensorFlow, PyTorch, OpenCV ...
+- **Programming Languages**: Python, C, C++, Java, R
+- **Frameworks and Libraries**: TensorFlow, PyTorch, OpenCV, MPI, OpenMP, CUDA, scikit-learn
 - **Tools**: Git, Docker, Bash, LaTeX
 - **Operating Systems**: Linux (Ubuntu, Arch)
 
