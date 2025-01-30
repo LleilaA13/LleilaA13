@@ -27,7 +27,7 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 ---
 
 ## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LleilaA13&rank_icon=github&theme=tokyonight)<br/> 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LleilaA13&rank_icon=true&theme=tokyonight)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LleilaA13&theme=tokyonight)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LleilaA13&layout=compact&theme=tokyonight)
 
