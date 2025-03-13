@@ -8,14 +8,8 @@ Welcome to my Github ! 🌸 I'm a 3rd Year student at Applied Computer Science a
 
 💡 **Interests**:
   - Multicore Processing and Parallel Computing 🖥️
-  - Mathematics and Computational Thinking 🧮
-  - Machine Learning, Data Analysis and Computer Vision 🤖
-    
-🌱 **Currently Learning**:
-  -  Multicore Programming (C) 🖥️
-  -  Deep learning 🤖
-  -  Algorithms and Computational theory 📚
-  -  Fundamentals of Cybersecurity 🔐
+  - Optimization 🧮
+  - Machine Learning and Computer Vision 🤖
 
     
 ## 🔧 Technologies & Tools
