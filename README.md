@@ -4,7 +4,6 @@ Welcome to my GitHub! 🌸 I'm a soon-to-be graduate in Applied Computer science
 
 ## Thesis Research: "Saliency-Based Machine Unlearning and Feature Visualization" 
 My thesis work focuses on the intersection of **machine unlearning** and **feature visualization**, exploring how neural networks can selectively "forget" specific knowledge while preserving performance on other tasks. This work has important implications for AI privacy, data protection, and responsible AI deployment.
-deployment.
 
 ## 🌟 Interests 
 
