@@ -6,16 +6,9 @@ Welcome to my GitHub! 🌸 I'm a soon-to-be graduate in Applied Computer science
 My thesis work focuses on the intersection of **machine unlearning** and **feature visualization**, exploring how neural networks can selectively "forget" specific knowledge while preserving performance on other tasks. This work has important implications for AI privacy, data protection, and responsible AI deployment.
 
 ## 🌟 Interests 
-
-### 🖥️ **Multicore Systems & Parallel Computing**
-- High-performance computing architectures
-- Parallel programming paradigms (MPI, OpenMP, CUDA)
-- System optimization and performance analysis
-
-### 🧮 **Optimization & Machine Learning**
-- Deep learning model optimization
-- Computer vision applications
-- Neural network analysis and interpretation
+- Machine learning and in particular explainability
+- High performance computing
+- Distributed systems in general
 
 ## 🔧 Technologies & Tools
 
