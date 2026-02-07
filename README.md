@@ -35,7 +35,7 @@ If you're working on similar research topics or interested in collaboration, fee
 
 ---
 ## 🎀 
-<div align="center">
+<div align="right">
   <img src="https://media.tenor.com/C_P5PvT8xE8AAAAi/kumori-corner-peak.gif" alt="Kumori">
 </div>
 
