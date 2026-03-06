@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Leila!
 
-Welcome to my GitHub! 🌸 I just graduated in Applied Computer science and Artificial intelligence at Sapienza University of Rome, while starting my Master's in Computer science 🎓
+Welcome to my GitHub! 🌸 I am a first year Master's student in Computer science at Sapienza University of Rome 🎓
 
-## Thesis Research: "Saliency-Based Machine Unlearning and Feature Visualization" 
-My thesis work focuses on the intersection of **machine unlearning** and **feature visualization**, exploring how neural networks can selectively "forget" specific knowledge while preserving performance on other tasks. This work has important implications for AI privacy, data protection, and responsible AI deployment.
+
 
 ## 🌟 Interests 
-- Machine learning and in particular explainability
+- Distributed systems
 - High performance computing
-- Distributed systems in general
+- other stuff!
 
 ## 🔧 Technologies & Tools
 
@@ -20,7 +19,6 @@ My thesis work focuses on the intersection of **machine unlearning** and **featu
 
 ## 📫 Let's Connect!
 I'm always interested in discussing:
-- Machine learning and AI research
 - Multicore systems and parallel computing
 - Opportunities for collaboration
 - Academic and research projects
